@@ -7,6 +7,10 @@
   </tr>
   <tr>
     <td>vk:</td>
-    <td>https://vk.com/mishadukhno</td>
+    <td>@mishadukhno</td>
+  </tr>
+  <tr>
+    <td>telegram:</td>
+    <td>@MishaDuhno</td>
   </tr>
 </table>
